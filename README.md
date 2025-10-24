@@ -30,8 +30,16 @@ Each example focuses on a different logical use case to build strong understandi
 | Longest string | Finds the string with the greatest length |
 
 ---
+
 ## 🧠 Example Output
 
+
+---
+
+## 🧰 Requirements
+
+- Python 3.7 or higher  
+- No external libraries required (uses built-in `functools`)
 THE SUM OF NUMS IS : 75
 THE PRODUCT OF LIST IS : 120
 ALL STRINGS INTO SINGLE : Python is fun
@@ -39,11 +47,6 @@ LARGEST NUMBER IN THE LIST IS : 89
 SMALLEST NUMBER IN THE LIST IS : 7
 RESULT ADDING FIRST WORDS OF STRINGS : PRA
 LARGEST LENGHTH IN THE STRING IS : strawberry88
-## 🧰 Requirements
-
-- Python 3.7 or higher  
-- No external libraries required (uses built-in `functools`)
-
 ---
 
 ## 🧑‍💻 Author
@@ -54,5 +57,15 @@ Software Engineering Student at QUEST University Nawabshah
 
 ---
 
-## 🧠 Example Output
+## ⭐ Contribution
 
+Feel free to **fork** this repository and experiment with more creative uses of `reduce()` like:
+- Calculating GCD of numbers  
+- Flattening nested lists  
+- Processing data structures  
+and more!
+
+---
+
+### 💡 Tip
+To deeply master `reduce()`, try pairing it with `map()` and `filter()` — they work beautifully together.
