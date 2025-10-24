@@ -32,12 +32,6 @@ Each example focuses on a different logical use case to build strong understandi
 ---
 
 ## 🧠 Example Output
-
-
----
-
-## 🧰 Requirements
-
 - Python 3.7 or higher  
 - No external libraries required (uses built-in `functools`)
 THE SUM OF NUMS IS : 75
@@ -56,16 +50,3 @@ Software Engineering Student at QUEST University Nawabshah
 📍 Karachi, Pakistan
 
 ---
-
-## ⭐ Contribution
-
-Feel free to **fork** this repository and experiment with more creative uses of `reduce()` like:
-- Calculating GCD of numbers  
-- Flattening nested lists  
-- Processing data structures  
-and more!
-
----
-
-### 💡 Tip
-To deeply master `reduce()`, try pairing it with `map()` and `filter()` — they work beautifully together.
